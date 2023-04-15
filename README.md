@@ -1,9 +1,5 @@
-
------------------------------------------------------
-Before starting the program be sure to run the command:
-
+Before starting the program be sure to run the command
 dotnet ef database update
------------------------------------------------------
 
 
 Lumberjack Typing Adventure was created as my capstone project for Code Louisville's C# Software Development 2 course.
