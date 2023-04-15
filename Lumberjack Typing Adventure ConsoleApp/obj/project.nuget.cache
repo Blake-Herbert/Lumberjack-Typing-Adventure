@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUmVbuq3BH+Xjk49Nf/6FtTGR3XQV0HlIqDUdW0v5LgVxYYBZdxQ+yMJ7AQqauZOoKH0+ge6ztCCiViJC5yaPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bwher\\OneDrive\\Desktop\\My Repo\\LumberjackTyping App\\Lumberjack Typing Adventure ConsoleApp\\Lumberjack Typing Adventure ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bwher\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

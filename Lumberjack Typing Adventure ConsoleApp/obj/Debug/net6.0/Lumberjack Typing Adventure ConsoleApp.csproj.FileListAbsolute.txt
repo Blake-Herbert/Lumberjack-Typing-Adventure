@@ -1,0 +1,32 @@
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.exe
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.deps.json
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.runtimeconfig.json
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.dll
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.pdb
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.AssemblyInfo.cs
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.dll
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\refint\Lumberjack Typing Adventure ConsoleApp.dll
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.pdb
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.genruntimeconfig.cache
+C:\Users\bwher\OneDrive\Desktop\My Repo\Lumberjack Typing Adventure ConsoleApp\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\ref\Lumberjack Typing Adventure ConsoleApp.dll
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.exe
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.deps.json
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.runtimeconfig.json
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.dll
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.pdb
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.AssemblyInfo.cs
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.csproj.CopyComplete
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.dll
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\refint\Lumberjack Typing Adventure ConsoleApp.dll
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.pdb
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\Lumberjack Typing Adventure ConsoleApp.genruntimeconfig.cache
+C:\Users\bwher\OneDrive\Desktop\My Repo\LumberjackTyping App\Lumberjack Typing Adventure ConsoleApp\obj\Debug\net6.0\ref\Lumberjack Typing Adventure ConsoleApp.dll
