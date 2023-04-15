@@ -23,6 +23,15 @@ namespace Lumberjack_Typing_Adventure_API.Migrations
                 {
                     table.PrimaryKey("PK_HighScores", x => x.id);
                 });
+
+            //migrationBuilder.InsertData(
+            //    table: "HighScores",
+            //    columns: new[] { "id", "playerName", "score" },
+            //    values: new object[,]
+            //    {
+            //        {new Guid("716454a0-2b0f-48a3-a9ff-3ca5946da1b5"), "Demo", 5 }
+            //    });
+
         }
 
         /// <inheritdoc />

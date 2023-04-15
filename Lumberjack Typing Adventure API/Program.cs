@@ -1,5 +1,21 @@
 using Lumberjack_Typing_Adventure_API;
+using Lumberjack_Typing_Adventure_API.Entities;
 
+using (var context = new ScoreboardContext())
+{
+	context.Database.EnsureCreated();
+
+	if (context.HighScores.FirstOrDefault(hs => hs.playerName == "test") is null)
+	{
+		context.HighScores.Add(new HighScore
+		{
+			playerName = "test",
+			score = 0
+		});
+	}
+
+	context.SaveChanges();
+}
 
 var builder = WebApplication.CreateBuilder(args);
 
