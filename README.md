@@ -15,7 +15,7 @@ I have satisfied this requirement by adding a list of lumberjack related vocabul
 
 2. Make your application an API
 
-I have satisfied this requirement by adding an API containing seeded high scores. The console app sends a get request to the API which can be viewed under the "scores" menu.
+I have satisfied this requirement by adding an API containing seeded high scores. The console app sends a get request to the API which can be viewed under the "scores" menu. The console app also sends a post request after completing a game.
 
 3. Make your application asynchonous
 
