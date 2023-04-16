@@ -7,6 +7,9 @@ using Newtonsoft.Json;
 using System.Net.Http.Headers;
 using System.Net.Http;
 using System.Numerics;
+using static System.Formats.Asn1.AsnWriter;
+using System.Net.Http.Json;
+using System.Text.Json.Nodes;
 
 
 namespace Lumberjack_Typing_Adventure_ConsoleApp
@@ -28,6 +31,17 @@ namespace Lumberjack_Typing_Adventure_ConsoleApp
 
 			return null;
 		}
+
+		public static async Task PostScoreToApi(string apiUrl, string playerName, int score)
+		{
+			await _httpClient.PostAsJsonAsync(apiUrl, new HighScore()
+			{
+				playerName = playerName,
+				score = score,
+				playerId = Guid.NewGuid()
+			});
+		}
+
 	}
 }
 

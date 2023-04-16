@@ -5,12 +5,33 @@ using (var context = new ScoreboardContext())
 {
 	context.Database.EnsureCreated();
 
-	if (context.HighScores.FirstOrDefault(hs => hs.playerName == "test") is null)
+	if (context.HighScores.FirstOrDefault(hs => hs.playerName == "Micheal") is null)
 	{
 		context.HighScores.Add(new HighScore
 		{
-			playerName = "test",
-			score = 0
+			playerName = "Micheal",
+			score = 5,
+			id = Guid.NewGuid(),
+		});
+	}
+
+	if (context.HighScores.FirstOrDefault(hs => hs.playerName == "Blake") is null)
+	{
+		context.HighScores.Add(new HighScore
+		{
+			playerName = "Blake",
+			score = 4,
+			id = Guid.NewGuid(),
+		});
+	}
+
+	if (context.HighScores.FirstOrDefault(hs => hs.playerName == "Nick") is null)
+	{
+		context.HighScores.Add(new HighScore
+		{
+			playerName = "Nick",
+			score = 3,
+			id = Guid.NewGuid(),
 		});
 	}
 
