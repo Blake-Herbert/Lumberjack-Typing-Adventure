@@ -15,7 +15,7 @@ I have satisfied this requirement by adding a list of lumberjack related vocabul
 
 2. Make your application an API
 
-I have satisfied this requirement by adding an API which contains and returns player names, scores, and playerIDs.
+I have satisfied this requirement by adding an API containing seeded high scores. The console app sends a get request to the API which can be viewed under the "scores" menu.
 
 3. Make your application asynchonous
 
