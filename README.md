@@ -1,6 +1,8 @@
 Before starting the program be sure to run the command:
 
 dotnet ef database update
+Run the database migrations
+Then run the API and console app in separate windows
 
 
 
@@ -20,8 +22,3 @@ I have satisfied this requirement by adding an API containing seeded high scores
 3. Make your application asynchonous
 
 I have satisfied this requirement by using an asynchronous method to issue get commands to the API
-
-
-
-
-Note: I ran into a lot of issues with learning how to incorporate an API. I created and deleted many repositories trying to figure it out. I did not wait until I was finished to upload.
