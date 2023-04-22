@@ -3,9 +3,8 @@ Lumberjack Typing Adventure was created as my capstone project for Code Louisvil
   
   
 Before starting the program be sure to...  
-- Run the command: "dotnet ef database update",  
-- Run the database migrations,  
-- Then run the API and console app in separate windows
+ Run the command: "dotnet ef database update",  
+ Then run database migrations
   
   
 Feature List:
