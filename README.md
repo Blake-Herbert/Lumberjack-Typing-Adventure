@@ -1,7 +1,6 @@
 Before starting the program be sure to run the command:
-dotnet ef database update
-
-Run the database migrations
+dotnet ef database update  
+Run the database migrations  
 Then run the API and console app in separate windows
 
 
