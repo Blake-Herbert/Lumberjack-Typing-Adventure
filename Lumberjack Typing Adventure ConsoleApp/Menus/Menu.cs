@@ -17,7 +17,7 @@ namespace Lumberjack_Typing_Adventure_ConsoleApp.Menus
 
     public class Menu
     {
-        public int SelectedIndex;                          // Selected Index will be the current option
+        public int SelectedIndex;                          
         public string[] Options;
         public string Prompt;
 
@@ -25,17 +25,16 @@ namespace Lumberjack_Typing_Adventure_ConsoleApp.Menus
         {
             Prompt = prompt + "\n----------------------------------\n";
             Options = options;
-            SelectedIndex = 0;                              // Selected Index starts at the top of the options
+            SelectedIndex = 0;                                    
         }
 
-        public void DisplayOptions()                        // Display Options shows menu prompt and lists menu options, highlighting current option
+        public void DisplayOptions()                       
         {
             WriteLine(Prompt);
             for (int i = 0; i < Options.Length; i++)
             {
-                string currentOption = Options[i];          // Current Option is the selected index
-
-                if (i == SelectedIndex)                     // This if/else statement sets the color of current option and default color for remaining options
+                string currentOption = Options[i];         
+                if (i == SelectedIndex)                                    
                 {
                     ForegroundColor = ConsoleColor.Black;
                     BackgroundColor = ConsoleColor.White;
@@ -46,16 +45,16 @@ namespace Lumberjack_Typing_Adventure_ConsoleApp.Menus
                     BackgroundColor = ConsoleColor.Black;
                 }
 
-                WriteLine($"{currentOption}");              // Writes menu options
+                WriteLine($"{currentOption}");              
             }
             ResetColor();
         }
 
 
-        public int Run()                                 // Run method calls Display Options method and allows arrow keys to flip through menu option before option selection
+        public int Run()                                 
         {
             ConsoleKey keyPressed;
-            do                                           // This do/while loop keeps options displayed until enter key is pressed, which will select the current highlighted option
+            do                                           
             {
                 Clear();
                 DisplayOptions();
@@ -63,18 +62,18 @@ namespace Lumberjack_Typing_Adventure_ConsoleApp.Menus
                 ConsoleKeyInfo keyInfo = ReadKey(true);
                 keyPressed = keyInfo.Key;
 
-                if (keyPressed == ConsoleKey.UpArrow)    // If the up arrow is pressed, move highlight to the option above the current option
+                if (keyPressed == ConsoleKey.UpArrow)    
                 {
                     SelectedIndex--;
-                    if (SelectedIndex == -1)             // If the current option is at the top of the list and up arrow is pressed, move highlight to bottom of menu
+                    if (SelectedIndex == -1)             
                     {
                         SelectedIndex = Options.Length - 1;
                     }
                 }
-                if (keyPressed == ConsoleKey.DownArrow)  // If the down arrow is pressed, move highlight to the option below the current option
+                if (keyPressed == ConsoleKey.DownArrow)  
                 {
                     SelectedIndex++;
-                    if (SelectedIndex == Options.Length) // If the current option is at the bottom of the list and down arrow is pressed, move highlight to top of the menu
+                    if (SelectedIndex == Options.Length) 
                     {
                         SelectedIndex = 0;
                     }
@@ -82,9 +81,7 @@ namespace Lumberjack_Typing_Adventure_ConsoleApp.Menus
 
             } while (keyPressed != ConsoleKey.Enter);
 
-            return SelectedIndex;                        // Returns int value of selected option
+            return SelectedIndex;                        
         }
     }
-
-
 }
