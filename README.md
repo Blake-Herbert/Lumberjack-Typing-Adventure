@@ -1,14 +1,13 @@
+Lumberjack Typing Adventure was created as my capstone project for Code Louisville's C# Software Development 2 course.  
+  
+  
+  
 Before starting the program be sure to...  
 - Run the command: "dotnet ef database update",  
 - Run the database migrations,  
 - Then run the API and console app in separate windows
-
-
-
-Lumberjack Typing Adventure was created as my capstone project for Code Louisville's C# Software Development 2 course.
-
-
-
+  
+  
 Feature List:
 1. Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
 
