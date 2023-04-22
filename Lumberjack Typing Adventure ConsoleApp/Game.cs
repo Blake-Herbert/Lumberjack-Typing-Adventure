@@ -14,8 +14,8 @@ namespace Lumberjack_Typing_Adventure
     public class Game
 	{
 		public void Start()
-		{	
-			string playerName = Console.ReadLine();
+		{
+			string playerName;
 			do {
 				Clear();
 				Console.WriteLine("\n Enter player name:");

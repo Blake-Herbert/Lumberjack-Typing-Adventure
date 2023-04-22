@@ -12,8 +12,8 @@
     "Lumberjack_Typing_Adventure_API": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": false,
-      //"launchUrl": "swagger",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7251",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -21,8 +21,8 @@
     },
     "IIS Express": {
       "commandName": "IISExpress",
-      "launchBrowser": false,
-      //"launchUrl": "swagger",
+        "launchBrowser": true,
+      "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
