@@ -3,8 +3,8 @@ Lumberjack Typing Adventure was created as my capstone project for Code Louisvil
   
   
 Before starting the program be sure to...  
- Run the command: "dotnet ef database update",  
- Then run database migrations
+1. Run the command: "dotnet ef database update",  
+2. Add database migrations (https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=vs)
   
   
 Feature List:
