@@ -2,9 +2,10 @@ Lumberjack Typing Adventure was created as my capstone project for Code Louisvil
   
   
   
-Before starting the program be sure to...  
+Before starting the program be sure open the package manager console and...  
 1. Run the command: "dotnet ef database update",  
-2. Add database migrations (https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=vs)
+2. Run the command: "Add-Migration {Migration name} (https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=vs)
+3. Run the command: "Update-database"
   
   
 Feature List:
